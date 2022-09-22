@@ -11,9 +11,14 @@ div{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    color: #c1e9ff;
+    color: #ffffff;
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: 'Caveat', cursive;
+    font-family: 'Rampart One', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 68px;
 }
